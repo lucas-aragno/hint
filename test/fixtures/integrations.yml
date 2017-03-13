@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  active: false
+  partner_id: 1
+  practice_id: 1
+
+two:
+  active: false
+  partner_id: 1
+  practice_id: 1
